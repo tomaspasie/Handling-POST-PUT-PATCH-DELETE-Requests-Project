@@ -7,4 +7,4 @@
 
 ### Assignment: Complete POST, PUT, PATCH, and DELETE requests for each of the business management functions.
 
-# Screenshots of Example Output  
+# Screenshots of Output  
