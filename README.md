@@ -7,4 +7,6 @@
 
 ### Assignment: Complete POST, PUT, PATCH, and DELETE requests for each of the business management functions.
 
-# Screenshots of Output  
+# Screenshots
+![PUT](/PUT.png "PUT") 
+![PUT2](/PUT2.png "PUT2") 
