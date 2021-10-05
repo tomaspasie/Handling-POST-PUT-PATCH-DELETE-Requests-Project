@@ -1,9 +1,4 @@
-###### Tomas Pasiecznik
-###### Professor Williams
-###### IS 421-002
-###### 12 April 2021
-
-# Homework: Module 8 - Creational and Destructive Requests (POST, PUT, PATCH, DELETE)
+# Handling POST, PUT, PATCH, and DELETE Requests Project
 
 ### Assignment: Complete POST, PUT, PATCH, and DELETE requests for each of the business management functions.
 
