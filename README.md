@@ -2,6 +2,8 @@
 
 ### Goal: Complete POST, PUT, PATCH, and DELETE requests for each of the business management functions.
 
+Done by Tomas Pasiecznik:
+
 # Screenshot - Updated User Name
 ![PUT](/PUT.png "PUT")  
 
